@@ -11,7 +11,7 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
 ### Run it 
-sudo service openvpn start
+`sudo service openvpn start`
 
 ### Setup port forwarding
 Custom	
